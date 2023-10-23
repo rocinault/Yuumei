@@ -1,0 +1,2132 @@
+{
+    "chapter": 2,
+    "scenes": [
+        {
+            "index": 1,
+			"transition": 2,
+			"background": "PostOffice",
+            "characters": [
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 1,
+                    "text": [
+                        "(username), what's the hold up? You're late for your first day of work!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "Ahh! *Shake"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "Geez... I can't believe she was standing right outside my door! "
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 4,
+                    "text": [
+                        "Don't be so startled, I plan on dropping by here often to check on you.",
+                        "It's part of my job to see how everyone is doing after all.",
+                        "But enough chit-chat and dawdling around. Get going! _closedeyes"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 5,
+                    "text": [
+                        "Y-Yes ma'am!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 2,
+			"transition": 3,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I hurriedly race down the flight of stairs and happen to spot Lukkas walking beside another woman. &Fireflies and Stardust", 
+					    "Lukkas notices me rushing down in a frenzy and laughs."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 2,
+                    "text": [
+                        "Oh hey (username)! A-ha! You're late on your first day, eh~? _grin"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "I return a slightly bitter, sheepish smile."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 4,
+                    "text": [
+                        "Uhh... Juuust a little, haha."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 5,
+                    "text": [
+                        "The figure standing next to Lukkas with neat, wavy pink hair glances over warmly."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 6,
+                    "text": [
+                        "Hi, (username). It's nice to meet you, my name is Olivya. I'm happy to be finally working with you! _neutral", 
+					    "I was busy yesterday so I wasn't able to get to meet you until now."
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 7,
+                    "text": [
+                        "Wow, Olivya's a beautiful name. Yes, me too!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 8,
+                    "text": [
+                        "She chuckles a little."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 9,
+                    "text": [
+                        "You're so kind. _smile"
+                    ],
+                    "pos": "right"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 3,
+            "characters": [
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 1,
+                    "text": [
+                        "Ah! I wanted to ask you something, (username)! How's Sir Vyktor doing? _neutral"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 100,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 4,
+                    "text": [
+                        "Who's Sir Vyktor?"
+                    ]
+                },
+                {
+                    "id": 101,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 5,
+                    "text": [
+                        "He's doing great! I've been talking to him every day, he's a nice guy!"
+                    ]
+                },
+                {
+                    "id": 102,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 7,
+                    "text": [
+                        "I've watered it today."
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+			"transition": 8,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "Lukkas looks slightly discontent."
+                    ],
+                    "pos": "middle"
+                },               
+				{
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 2,
+                    "text": [
+                        "Really, You seriously don't know? Sir Vyktor is the plant I gave to you yesterday! _pout",
+						"I even wrote a little tag on the front of his flowerpot, didn't you see it?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 3,
+                    "text": [
+                        "Oh, so the plant has a name... Maybe I should be more observant"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 5,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "My answer seems to have shocked him. I wonder why?"
+                    ],
+                    "pos": "middle"
+                },  
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 2,
+                    "text": [
+						"... _shocked",
+                        "Ookaayyy. That's a little strange. _neutral",
+						"Oh, haha wait! You're just pullin' my leg, aren't 'ya?",
+						"C'mon (username), don't scare me like that! _nervous",
+						"You are kidding, right? _pout"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 103,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 3,
+                    "transition": 6,
+                    "text": [
+                        "Yeah, I was just tricking you"
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 6,
+			"transition": 8,
+            "characters": [
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 1,
+                    "text": [
+                       "Ha! I knew you were the joker type all along! _grin"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 2,
+                    "text": [
+                        "I laugh along with him, though I'm actually confused.", 
+						"Maybe I should actually look at whoever this 'Sir Vyktor' is again."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 7,
+			"transition": 8,
+            "characters": [
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 1,
+                    "text": [
+                       "That's great! Keep taking good care of him! _happy",
+						"Plant lovers are known to be really nice people. Maybe you're a good person too! _grin"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 8,
+			"transition": 9,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I continue to chat with Lukkas and Olivya on the way over to our work station when suddenly..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "...! *Shake",
+						"Ah! I'm sorry!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 4,
+                    "tag": "Character",
+                    "name": "Evaan",
+                    "index": 3,
+                    "text": [
+                        "...."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 4,
+                    "text": [
+                        "..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 9,
+			"transition": 10,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "The stern-looking figure I had just bumped into merely casts a momentary gaze in my direction before redirecting his focus elsewhere, carrying on his usual way."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "That... was weird."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 3,
+                    "text": [
+                       "Oh, him? Yeah, he's always been a bit like that... Dunno why. _pout",
+					   "He's a good person though, always on time for everything and all. _neutral"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 10,
+			"transition": 11,
+			"background": "Workstation",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "So he's the silent type, huh... He didn't even bother to say a word after I bumped into just now.",
+						"He didn't seem particularly fazed about the fact that I completed my training yesterday either.", 
+						"Or... Maybe he just doesn't like talking with people he doesn't know well enough.",
+						"I watch Lukkas and Olivya walk ahead of me, with a smile.",
+						"Either way, I'll probably run into these people a lot more from here on out. Yuumei Post Office sure has an interesting bunch of people. |"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 11,
+			"transition": 12,
+			"background": "MarketCrowd",
+            "characters": [
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 1,
+                    "text": [
+                        "Okay, let's see who I need to deliver to today... "
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 2,
+                    "text": [
+                        "I briefly look at today's agenda.", 
+						"It looks like I have to deliver an urgent parcel before noon, and the rest of the day is just running the usual errands for ordinary mail.",
+						"I check that I have everything packed with me and head out to start my first delivery job. I'm kind of excited, actually!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 12,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "The marketplace is busier than usual, and an accompaniment of music sounds in the distance. I think I hear an accordion and a clarinet. &Bushwick Tarantella Loop", 
+						"As I walk closer, I hear a lot of people talking over each other, especially at the centre of the market.",
+						"Everyone seems to be crowding around something or someone."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 12,
+                    "tag": "Character",
+                    "name": "Magician",
+                    "index": 2,
+                    "text": [
+                        "Ladies and gentlemen, boys and girls! Don't you blink!", 
+						"You're about to witness one of THE best magic shows you'll ever get to lay your eyes upon!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 3,
+                    "text": [
+                        "They're doing magic? That sounds really cool...!",
+						"Maybe I can take a quick look..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 4,
+                    "text": [
+                        "I squeeze into the crowd to get a closer look at the busker. The crowd's gaze is all fixated on the busker as they cheer in excitement.", 
+						"Ugh... I can barely get past the crowd to see anything. There's too many people!",
+						"As I look around the crowd, my eyes are being drawn to the back pocket of a man in front of me. Dangling money.",
+						"The people in the crowd are colliding into each other as they cheer in sheer excitement, causing the man's money to slip out of his pocket."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 5,
+                    "text": [
+                        "...Oh!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 6,
+                    "text": [
+                        "I turn my head to look briefly in both ways, but nobody has seemed to notice that his money has dropped on the ground. Do I..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 104,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 7,
+                    "transition": 13,
+                    "text": [
+                        "Keep the money"
+                    ]
+                },
+                {
+                    "id": 105,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 7,
+                    "transition": 14,
+                    "text": [
+                        "Pick it up and return it to the man"
+                    ]
+                }
+			]
+        },
+        {
+            "index": 13,
+			"transition": 15,
+			"background": "Market",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+						"I lower myself and bend down slightly to carefully pick up the fallen money. Just as I was about to quickly place it in my pocket..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 2,
+                    "text": [
+                       "... ^cloakon_frown"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+						"I hear a hushed, familiar voice, calling out eagerly from behind."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 4,
+                    "text": [
+                       "Hey, that's not a good idea (username)"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 5,
+                    "text": [
+						"Olivya took the money from my hand and gave it back to the man who dropped it."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 13,
+                    "tag": "Character",
+                    "name": "Man",
+                    "index": 6,
+                    "text": [
+						"O thank you young lady. How kind of you."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 7,
+                    "text": [
+                       "Not at all sir _smile"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 8,
+                    "text": [
+						"Olivya's wrist band glowed green. The number on her wrist changed from 6 to 6.1"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 9,
+                    "text": [
+                       "As expected I got an upgrade~ _bigsmile"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 14,
+			"transition": 15,
+			"background": "Market",
+            "characters": [
+                {
+                    "id": 13,
+                    "tag": "Character",
+                    "name": "Man",
+                    "index": 1,
+                    "text": [
+						"O thank you young man. How kind of you."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "No problem!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+						"I noticed my wrist band is glowing green and the number on my wrist changed from 5 to 5.1",
+						"I hear a hushed, familiar voice, calling out eagerly from behind."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 4,
+                    "text": [
+                       "Nicely done (username), looks like you got an upgrade ^cloakon_smile"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 5,
+                    "text": [
+                        "...? An upgrade?"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 15,
+			"transition": 16,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "We soon walked away from the crowd and until Olivya turned around to talk to me.", 
+						"I notice that we're both wearing the same kind of gadget on our wrists, but I'm not so sure what it's really for..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 16,
+            "characters": [
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 1,
+                    "text": [
+                       "Is there something you need to know? _neutral"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 106,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 17,
+                    "text": [
+                        "How does the wristband work?"
+                    ]
+                },
+                {
+                    "id": 107,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 18,
+                    "text": [
+                        "The wristband glowed green just now. Why was that?"
+                    ]
+                },
+                {
+                    "id": 108,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 19,
+                    "text": [
+                        "What happens if you do something bad?"
+                    ]
+                },
+                {
+                    "id": 109,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 20,
+                    "text": [
+                        "What happens if my number hits rock bottom?"
+                    ]
+                },
+                {
+                    "id": 110,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 21,
+                    "text": [
+                        "I don't need to ask anything"
+                    ]
+                }
+			]
+        },
+        {
+            "index": 17,
+			"transition": 16,
+            "characters": [
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 1,
+                    "text": [
+                       "You're a funny one aren't you (username) _worried",
+					   "Did you really forget how it works?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "I tried my best to remember anything about the wristband... but I got nothing.",
+						"Seeing that I have difficulty remembering, Olivya chuckled a bit."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 4,
+                    "text": [
+                       "Okay, okay. How about refresh your memory?. _laugh",
+					   "To put it simply. It's a device that tracks our good and bad deeds. _smile"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 5,
+                    "text": [
+                        "Are you the only one with a wristband?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 6,
+                    "text": [
+                        "No, everyone at Yuumei wears one. Everyone in this town to be precise. The exact same one you're wearing. _neutral",
+					    "The wristband is linked by a system we all use, where our ranking starts on number 5 by default. _smallsmile",
+					    "Don't even bother trying to take it off. Nobody has been able to thus far. _smile",
+						"But hey, you may as well try looking good while you're at it! _bigsmile"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 18,
+			"transition": 16,
+            "characters": [
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 1,
+                    "text": [
+					   "Oh, Isn't it kind of pretty? _smallsmile",
+					   "By returning the money, a good deed was done, so a small upgrade was rewarded and the number went up. _smile", 
+					   "Keep carrying out good deeds and you'll gain some great benefits!",
+					   "It's a win-win for everyone! _bigsmile"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 19,
+			"transition": 16,
+            "characters": [
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 1,
+                    "text": [
+					   "If you do anything bad, your wristband will glow red. _pouty",
+					   "And you don't want that (username). The number on the wristband determines your privileges in the town, so keep it as high as you can. _smile"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 20,
+			"transition": 16,
+            "characters": [
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 1,
+                    "text": [
+					   "You better not be thinking of anything stupid (username) _frown",
+					   "Because no one knows... _neutral",
+					   "...No one knows what happens when your number drops to 0. _pouty",
+					   "But... it is said, that people get locked away in the town guard's cell... and they don't come back out for a long while. _neutral",
+					   "Hey (username), we may have only just met this morning, but I believe you're not going to be that person. _smallsmile",
+					   "You'll be fine! _laugh"	
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 21,
+			"transition": 22,
+            "characters": [
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 1,
+                    "text": [
+					   "Oh, Would you look at the time! _suprised",
+					   "You should get back to work, your bag is still looking pretty full. _worried",
+					   "See you back at Yuumei, (username) _bigsmile"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 22,
+			"transition": 23,
+			"background": "ResidentialArea",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "We split up into different directions. I continue my walk to the delivery address of the receiver of the urgent parcel. |"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 23,
+			"transition": 24,
+            "characters": [
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 1,
+                    "text": [
+                        "I haven't really been to this area before. It seems much quieter here..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 2,
+                    "text": [
+                        "On the way over, I spot two villagers gesturing wildly and creating some commotion."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 3,
+                    "text": [
+                        "Oh my gosh!! Do you know who delivered a parcel to my door the other day? _shocked"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 4,
+                    "text": [
+                        "Oh, who, who? _wink"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 5,
+                    "text": [
+                        "Evaan! Seriously, how scary is that guy? He doesn't even look you in the eyes when he talks to you!"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 6,
+                    "text": [
+                        "I think he doesn't look like a bad person, but he always acts so suspicious. _frown"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 7,
+                    "text": [
+                        "Right? The other day I heard this from my neighbour-"
+                    ],
+                    "pos": "left"
+                }
+            ],
+            "ui": [	
+			]
+        },
+        {
+            "index": 24,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "They're talking about Evaan... I'm kinda curious about it but I'm also running out of time to deliver the parcel.. Should I..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 111,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 25,
+                    "text": [
+                        "Join in the gossip"
+                    ]
+                },
+                {
+                    "id": 112,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 26,
+                    "text": [
+                        "Walk closer to eavesdrop on the conversation"
+                    ]
+                },
+                {
+                    "id": 113,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 2,
+                    "transition": 32,
+                    "text": [
+                        "Ignore and continue to deliver the parcel"
+                    ]
+                }
+			]
+        },
+        {
+            "index": 25,
+			"transition": 27,
+			"background": "VillageOutskirts",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I approach the villagers and open my mouth to speak"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "You're right, he's so weird. He bumped into me the other day and just stared at me.", 
+						"He didn't even say a thing-not even sorry!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "The rosy, pink-haired woman looks over to me and nods."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 4,
+                    "text": [
+                        "I totally understand. He's always so quiet. _laugh", 
+						"I tried to be nice one day and asked him how he was but he just brushed me off and ignored my question."
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 5,
+                    "text": [
+                        "Maybe he didn't hear you... _neutral"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 6,
+                    "text": [
+                        "Maybe... _neutral", 
+						"Wait... _confused"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 7,
+                    "text": [
+                        "She turns to look at me curiously."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 8,
+                    "text": [
+                        "Who are you? _shocked"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 9,
+                    "text": [
+                        "A postman uniform...I haven't seen you before though. You're new?"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 10,
+                    "text": [
+                        "Oh, yeah... I just started today."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 11,
+                    "text": [
+                        "Why you're a gossip lover just like us! _bigsmile",
+						"My name is Mae by the way, and this is Juun. _smile"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 12,
+                    "text": [
+                        "She gestures to the man in blue coloured hair in front of her."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 13,
+                    "text": [
+                        "So what brought you here today? _smile"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 14,
+                    "text": [
+                        "...",
+						"Ah! Oh no! I have an urgent parcel I need to deliver! I'll catch you guys some time soon!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 15,
+                    "text": [
+                        "I give both of them waves as I scurry off in a hurry."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 26,
+			"transition": 27,
+			"background": "VillageOutskirts",
+            "characters": [
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 1,
+                    "text": [
+                        "Did you know? My next door neighbour said something about him last week. _neutral"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 2,
+                    "text": [
+                        "What did they say? _frown"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 3,
+                    "text": [
+                        "They said that they saw Evaan lurking in the middle of the late night and heard crashing sounds. _confused"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 4,
+                    "text": [
+                        "What's he doing up so late at night? _confused"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 5,
+                    "text": [
+                        "Creepy, right? My neighbour said that he was trying to crush the bracelet on his arm or something. _neutral"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 6,
+                    "text": [
+                        ".. *snap*"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 7,
+                    "text": [
+                        "... _wideeyed"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 8,
+                    "text": [
+                        "... _shocked"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 9,
+                    "text": [
+                        "While they were talking, I carelessly stepped on a twig and made it snap and before I knew it, the two heads turned in the direction of the sound. Whoops. @Twig"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 10,
+                    "text": [
+                        "Hey, did you hear that snapping sound just now?"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 11,
+                    "text": [
+                        "I did! Who's there? Come out from behind already~ _wideeyed"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 12,
+                    "text": [
+                        "I sheepishly step out from behind a nearby wall."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 13,
+                    "text": [
+                        "Hearing on our conversation, hey~? _wink"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 14,
+                    "text": [
+                        "One of the villagers look at me as if they were examining my uniform closely."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 15,
+                    "text": [
+                        "A postman uniform...I haven't seen you before though. You're new? _neutral"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 16,
+                    "text": [
+                        "Oh, yeah... I just started today."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 8,
+                    "tag": "Character",
+                    "name": "Mae",
+                    "index": 17,
+                    "text": [
+                        "Why you're a gossip lover just like us! _bigsmile",
+						"My name is Mae by the way, and this is Juun. _smile"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 18,
+                    "text": [
+                        "She gestures to the man in blue coloured hair in front of her."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 7,
+                    "tag": "Character",
+                    "name": "Juun",
+                    "index": 19,
+                    "text": [
+                        "So what brought you here today? _smile"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 20,
+                    "text": [
+                        "...",
+						"Ah! Oh no! I have an urgent parcel I need to deliver! I'll catch you guys some time soon!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": []
+        },
+        {
+            "index": 27,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I hurriedly scramble over to the address of the door I'm supposed to deliver to and make three knocks on the door, anticipating an answer. "
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 2,
+                    "text": [
+                        "There you are! My parcel was supposed to arrive an hour ago. Where has it been!? _angry"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "She looks very cross. This isn't good..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 114,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 4,
+                    "transition": 28,
+                    "text": [
+                        "I'm sorry, ma'am. We had a few delays on the way over there."
+                    ]
+                },
+                {
+                    "id": 115,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 4,
+                    "transition": 29,
+                    "text": [
+                        "Isn't it daylight savings time?"
+                    ]
+                }
+			]
+        },
+        {
+            "index": 28,
+			"transition": 30,
+            "characters": [
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 1,
+                    "text": [
+                        "Sorry's not going to help me bake my cake! I needed my baking whisk earlier to bake this cake for my niece's birthday but now it's too late!",
+						"You mail people need to be more punctual! _neutral"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 29,
+			"transition": 30,
+            "characters": [
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 1,
+                    "text": [
+                        "Are you trying to pull a joke on me? I know what time it is!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 2,
+                    "text": [
+                        "The woman looks me in the eye. Maybe I better not mess around..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 30,
+			"transition": 31,
+            "characters": [
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 1,
+                    "text": [
+                        "It's late... but I'll still be able to make my cake, I guess. Would've been nicer if I had it earlier, though.", 
+						"Thank you for the parcel..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 31,
+			"transition": 37,
+			"background": "PostOffice_Exterior",
+            "characters": [
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 1,
+                    "text": [
+                        "Oh boy, that could have gone better..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 2,
+                    "text": [
+                        "But those villagers from before were talking about Evaan, weren't they?",
+						"I should keep all this in mind.",
+						"Well. Time for me to head back to the post office."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 32,
+			"transition": 33,
+			"background": "VillageOutskirts",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I decided not to join their conversation, I'd be late after all!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 33,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+						"I head straight over to the designated address and make three firm knocks on the door."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 2,
+                    "text": [
+                        "Oh, and you are...?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 3,
+                    "text": [
+                        "Here's your parcel, ma'am."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 4,
+                    "text": [
+						"She lights up at the sight of the parcel."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 5,
+                    "text": [
+                        "Ah it's Yuumei Post! Thank you ever so much for arriving here- and earlier than I expected, too! _pleased",
+						"I'll be able to bake a cake for my niece's birthday with this!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+                {
+                    "id": 116,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 6,
+                    "transition": 34,
+                    "text": [
+                        "What kind of cake?"
+                    ]
+                },
+                {
+                    "id": 117,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 6,
+                    "transition": 35,
+                    "text": [
+                        "Say happy birthday to them for me"
+                    ]
+                }
+			]
+        },
+        {
+            "index": 34,
+			"transition": 36,
+            "characters": [
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 1,
+                    "text": [
+                        "Orange cake with a dash of whipped cream on the side. It's her favourite. "
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 35,
+			"transition": 36,
+            "characters": [
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 1,
+                    "text": [
+                        "I will! You're too kind. We might order from Yuumei Post again, you're so efficient!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 36,
+			"transition": 37,
+			"background": "PostOffice_Exterior",
+            "characters": [
+                {
+                    "id": 14,
+                    "tag": "Character",
+                    "name": "Nensy",
+                    "index": 1,
+                    "text": [
+                        "I'll be using this now. Thank you for the parcel, have a nice day!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "You too!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 37,
+			"transition": 38,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+						"With my hands now free and the parcel delivered, I start walking back to the post office carrying on with my usual day with a bit of paperwork here and there. Until..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 2,
+                    "text": [
+						"Who's that on the ground?!",
+						"There's a girl!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+						"Wait... Was that Olivya's voice I heard?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 4,
+                    "text": [
+                        "... _suprised"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 5,
+                    "text": [
+						"Sure enough, Olivya comes running through the door of the post office looking fairly panicked.",
+						"She spots me and frantically gestures with her hands, for me to come over."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 38,
+			"transition": 39,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+						"We reach the outside of the post office and I'm shocked at what I see.",
+						"There's a white-haired girl donning a long coat who fainted just by the stairs to the post office. "
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 9,
+                    "tag": "Character",
+                    "name": "Silvya",
+                    "index": 2,
+                    "text": [
+						"No...! I... I'm not going with you. You cannot make me! _unconscious",
+						"Don't... don't take me away. I will not go!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 3,
+                    "text": [
+                        "What is she talking about...? _suprised"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 4,
+                    "text": [
+						"In that moment, the post office door swings opens then shuts as Lukkas comes out to have a look as well."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 5,
+                    "text": [
+					   "Woah! Who's this? _shocked"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 6,
+                    "text": [
+						"The girl's eyes remain shut, but she stirs despite being unconscious."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 7,
+                    "text": [
+					   "Can you hear us? Wake up...!"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 8,
+                    "text": [
+						"Lukkas crouches down by her side to shake her by the shoulders, to which the girl remains still until... she rises to sit upright in an almost eerie fashion."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 9,
+                    "tag": "Character",
+                    "name": "Silvya",
+                    "index": 9,
+                    "text": [
+						"You are all prisoners trapped inside of Yuumei. This is all fake."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 10,
+                    "text": [
+					   "...?"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 11,
+                    "text": [
+						"I feel a cold shiver being sent down my spine as she looks in my direction. Her face screams a sense of familiarity, but I don't think I know her at all..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 12,
+                    "text": [
+					   "What did you say? I... don't think I caught that... _nervous"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 6,
+                    "tag": "Character",
+                    "name": "Olivya",
+                    "index": 13,
+                    "text": [
+                        "She's not making sense... _pouty"
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 14,
+                    "text": [
+						"Then, as if just now comprehending what had just been said, the girl cups her hand over her mouth, baffled."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 9,
+                    "tag": "Character",
+                    "name": "Silvya",
+                    "index": 15,
+                    "text": [
+						"O-oh my! I apologise! _neutral"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 16,
+                    "text": [
+						"She gives a downcast expression with a slight hint of shame."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 17,
+                    "text": [
+					   "Are you okay? What did you say just now? _shocked"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 9,
+                    "tag": "Character",
+                    "name": "Silvya",
+                    "index": 18,
+                    "text": [
+						"Ah.. Don't mind it... I'm not too sure myself...  _sad",
+						"My head hurts... _unconscious"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 39,
+			"transition": 40,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+					   "Kathryn who had arrived not too long ago hurriedly crouches down next to Lukkas and checks on the girl", 
+					   "Somehow the usually composed glance on her face has vanished..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 2,
+                    "text": [
+                        "You heard the girl! Don't listen to any of the trivial nonsense she's spouting! _angry"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+					   "She had shouted, and the shout rung in our ears.",
+					   "The delivery people of Yuumei Post ever-so-gradually draw their attention over to their mentor, myself included.",
+					   "I can't quite make light of what's going on...",
+					   "Kathryn momentarily pauses before shaking her head."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 4,
+                    "text": [
+                        "The... the girl just needs her rest. Get her indoors right away. _neutral"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 5,
+                    "text": [
+					   "Kathryn looks at me with an odd hint of uncertainty, something I haven't seen in her eyes before."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        },
+        {
+            "index": 40,
+			"transition": 100,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+					   "She turns to leave, as Olivya and Lukkas help the girl indoors, and I'm once again standing in the front of the post office by myself.",
+					   "Nothing has changed outside, there's people walking, carrying on with their usual lives", 
+					   "Playing music-everything had remained just as it had, a mere ten minutes ago, yet for some reason..", 
+					   "I can't shake this feeling. ",
+					   "The atmosphere is uneasy, and I'm not sure what to think. Who was that girl? And why had she collapsed outside our post office?",
+					   "I'm left with a myriad of questions in my mind.",
+					   "What did she mean that we were... prisoners?"
+										
+                    ],
+                    "pos": "middle"
+                }
+            ],
+            "ui": [
+			]
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 92024cfb1d6e6804989b1506d6a388b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: chair
+    100002: desk
+    100004: door_bathroom
+    100006: door_entrance
+    100008: draw1
+    100010: draw2
+    100012: draw3
+    100014: paper
+    100016: pCube1
+    100018: pCube2
+    100020: pCube3
+    100022: pCube4
+    100024: pCube5
+    100026: pCube6
+    100028: pCube7
+    100030: pCube8
+    100032: placeholder1
+    100034: placeholder2
+    100036: placeholder3
+    100038: placeholder4
+    100040: placeholder_bed
+    100042: placeholder_books
+    100044: placeholders
+    100046: pPlane1
+    100048: pPlane2
+    100050: pPlane3
+    100052: pPlane4
+    100054: reference_person
+    100056: //RootNode
+    100058: room
+    100060: table
+    100062: wooden_beams
+    400000: chair
+    400002: desk
+    400004: door_bathroom
+    400006: door_entrance
+    400008: draw1
+    400010: draw2
+    400012: draw3
+    400014: paper
+    400016: pCube1
+    400018: pCube2
+    400020: pCube3
+    400022: pCube4
+    400024: pCube5
+    400026: pCube6
+    400028: pCube7
+    400030: pCube8
+    400032: placeholder1
+    400034: placeholder2
+    400036: placeholder3
+    400038: placeholder4
+    400040: placeholder_bed
+    400042: placeholder_books
+    400044: placeholders
+    400046: pPlane1
+    400048: pPlane2
+    400050: pPlane3
+    400052: pPlane4
+    400054: reference_person
+    400056: //RootNode
+    400058: room
+    400060: table
+    400062: wooden_beams
+    2100000: M5
+    2100002: M1
+    2100004: M6
+    2100006: lambert1
+    2100008: M2
+    2100010: M3
+    2100012: M7
+    2100014: M4
+    2100016: Mglass
+    2100018: M8
+    2300000: chair
+    2300002: door_bathroom
+    2300004: door_entrance
+    2300006: draw1
+    2300008: draw2
+    2300010: draw3
+    2300012: pCube1
+    2300014: pCube2
+    2300016: pCube3
+    2300018: pCube4
+    2300020: pCube5
+    2300022: pCube6
+    2300024: pCube7
+    2300026: pCube8
+    2300028: placeholder1
+    2300030: placeholder2
+    2300032: placeholder3
+    2300034: placeholder4
+    2300036: placeholder_bed
+    2300038: pPlane1
+    2300040: pPlane2
+    2300042: pPlane3
+    2300044: pPlane4
+    2300046: reference_person
+    2300048: room
+    2300050: table
+    2300052: wooden_beams
+    3300000: chair
+    3300002: door_bathroom
+    3300004: door_entrance
+    3300006: draw1
+    3300008: draw2
+    3300010: draw3
+    3300012: pCube1
+    3300014: pCube2
+    3300016: pCube3
+    3300018: pCube4
+    3300020: pCube5
+    3300022: pCube6
+    3300024: pCube7
+    3300026: pCube8
+    3300028: placeholder1
+    3300030: placeholder2
+    3300032: placeholder3
+    3300034: placeholder4
+    3300036: placeholder_bed
+    3300038: pPlane1
+    3300040: pPlane2
+    3300042: pPlane3
+    3300044: pPlane4
+    3300046: reference_person
+    3300048: room
+    3300050: table
+    3300052: wooden_beams
+    4300000: room
+    4300002: wooden_beams
+    4300004: pPlane1
+    4300006: pPlane2
+    4300008: pPlane3
+    4300010: pPlane4
+    4300012: draw3
+    4300014: draw2
+    4300016: draw1
+    4300018: table
+    4300020: chair
+    4300022: door_bathroom
+    4300024: door_entrance
+    4300026: placeholder1
+    4300028: placeholder2
+    4300030: placeholder3
+    4300032: placeholder4
+    4300034: pCube1
+    4300036: pCube2
+    4300038: pCube3
+    4300040: pCube4
+    4300042: pCube5
+    4300044: pCube6
+    4300046: pCube7
+    4300048: pCube8
+    4300050: placeholder_bed
+    4300052: reference_person
+    6400000: chair
+    6400002: door_bathroom
+    6400004: door_entrance
+    6400006: draw1
+    6400008: draw2
+    6400010: draw3
+    6400012: pCube1
+    6400014: pCube2
+    6400016: pCube3
+    6400018: pCube4
+    6400020: pCube5
+    6400022: pCube6
+    6400024: pCube7
+    6400026: pCube8
+    6400028: placeholder1
+    6400030: placeholder2
+    6400032: placeholder3
+    6400034: placeholder4
+    6400036: placeholder_bed
+    6400038: pPlane1
+    6400040: pPlane2
+    6400042: pPlane3
+    6400044: pPlane4
+    6400046: reference_person
+    6400048: room
+    6400050: table
+    6400052: wooden_beams
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1
+    second: {fileID: 2100000, guid: 826b706baec95484f96e1d6e99eb95d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2
+    second: {fileID: 2100000, guid: 9d0778cdc4b4da64898c95fbf8dd8e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3
+    second: {fileID: 2100000, guid: 6486ca1d8e6c51647b1861d429566767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4
+    second: {fileID: 2100000, guid: 2980abddba9b93d4eb960c2f628a5bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5
+    second: {fileID: 2100000, guid: b1f4025aa84bac143bb2c0803434f7f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M6
+    second: {fileID: 2100000, guid: 3936fcd0dd62a6b4ca9867b30f1418bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M7
+    second: {fileID: 2100000, guid: 57cb17c1d97f1324f8ddf75aa07aa777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M8
+    second: {fileID: 2100000, guid: 5604cfbb3af77ac4bae566439f25c4e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mglass
+    second: {fileID: 2100000, guid: 588e9c31c2a4489458c156521168df1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 48b741cf863332247a98cbc98f0a7625, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

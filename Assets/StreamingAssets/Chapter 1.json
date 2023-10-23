@@ -1,0 +1,736 @@
+{
+    "chapter": 1,
+    "scenes": [
+        {
+            "index": 1,
+            "characters": [
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 1,
+                    "text": [
+                        "Restrain them! Don't let them get away!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                         "No! I refuse to be a part of this! This is immoral!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "As I hear the sound of rapid footsteps closing in on me, I..."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+                {
+                    "id": 100,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 4,
+                    "transition": 2,
+                    "text": [
+                        "Scream"
+                    ]
+                },
+                {
+                    "id": 101,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 4,
+                    "transition": 3,
+                    "text": [
+                        "Attempt to break free"
+                    ]
+                },
+                {
+                    "id": 102,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 4,
+                    "transition": 4,
+                    "text": [
+                        "Accept your fate"
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+			"transition": 5,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I scream, letting out a piercing cry for help- all to sadly no avail."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 2,
+                    "text": [
+                        "No one's going to hear you, fool. It's already too late."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "It's true... Finding myself in the middle of pitch, black darkness, I don't recognise this place at all..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 4,
+                    "text": [
+                        "You have no choice! Now quit struggling!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 3,
+			"transition": 5,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "I wriggle and pull forward, desperate to squeeze out from whatever device they've locked onto me, but another figure yanks me back from behind and I can't do a thing..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 2,
+                    "text": [
+                        "Trying to sneak your way out of this? Give up!",
+						"You have no choice! Now quit struggling!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "Just what are they trying to do? What will happen to me...?"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 4,
+			"transition": 5,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "This is the end, isn't it? I squeeze my eyes shut tightly in anticipation of whatever was about to hit me or happen next."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 2,
+                    "text": [
+                        "You're awfully timid. Guess you've given up now haven't you?",
+						"Hah, it makes our job easier. Even if you wanted to rebel against us, you wouldn't even have a chance."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 5,
+			"transition": 6,
+			"background": "Market",
+            "characters": [
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 1,
+                    "text": [
+                         "Wherever you're taking me, I'm not going with you!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 10,
+                    "tag": "Character",
+                    "name": "Guard",
+                    "index": 2,
+                    "text": [
+                        "Ugh. Lock this annoying kid up already!"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 3,
+                    "text": [
+                         "Wh-What are you-! *Shake",
+						 "....!!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 6,
+			"transition": 7,
+			"background": "PostOffice_Exterior",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "A small town-like village. The houses are carefully constructed by sturdy clay, where pebbles weave along the sides to create a welcoming path. &Fireflies and Stardust",
+                        "Lush greenery grows upon the rocky bridge which stretches above the calm lake, where families and young children are often seen to fish or splash around in glee.",
+                        "On the other side of town, lies an array of small shops, most notably, the post office.",
+						"A voice starts to echo itself softly in my mind. Somehow, I feel myself being compelled to hear what it has to say..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 11,
+                    "tag": "Character",
+                    "name": "Mysterious Voice",
+                    "index": 2,
+                    "text": [
+                        "This is where you've lived your entire life- The town of Yuumei."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 7,
+			"transition": 8,
+            "characters": [
+                {
+                    "id": 11,
+                    "tag": "Character",
+                    "name": "Mysterious Voice",
+                    "index": 1,
+                    "text": [
+                        "And over there, is the post office where you work... "
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 2,
+                    "text": [
+                        "Heeey (username), How's our newest recruit going? _neutral"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 11,
+                    "tag": "Character",
+                    "name": "Mysterious Voice",
+                    "index": 3,
+                    "text": [
+                        "This is Lukkas... Your work peer at Yuumei Post"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 4,
+                    "text": [
+                        "Everyones probably waiting for ya to arrive inside, so you'd better hurry up! _grin",
+                        "Race you there!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 8,
+			"transition": 9,
+			"background": "PostOffice",
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "The figure beams brightly with a swift wave before speeding off in a sprint towards the door."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 2,
+                    "text": [
+                        "Newest recruit? Well, I guess I am kind of new...",
+                        "But what's with all the excitement?",
+                        "Guess I should head inside and find out. |"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 9,
+			"transition": 10,
+            "characters": [
+				{
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "The Yuumei Post Office. Staff are often stationed to greet and serve their customers inside. &Teddy Bear Waltz", 
+						"Closer to the walls, are shelves of bound, information scrolls as well as purchasable souvenirs for travellers who wish to buy something."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 4,
+                    "tag": "Character",
+                    "name": "Evaan",
+                    "index": 2,
+                    "text": [
+                        "(username) you took your time getting here.",
+                        "The boss is waiting for everyone to gather, so just stay here for now."
+                    ],
+                    "pos": "right"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 3,
+                    "text": [
+                        "Now she's the one that's late... How long do we have to wait? _pout"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 4,
+                    "text": [
+                        "A figure of prestigious rank enters through the door behind the counter, directly dropping a stack of neatly-binded documents harshly behind Lukkas. *Shake"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 5,
+                    "text": [
+                        "!? _shocked"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 6,
+                    "text": [
+                        "These are all the tasks you haven't completed yet, mister Lukkas! _angry"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 10,
+			"transition": 11,
+            "characters": [
+				{
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "The woman is looking in my direction. I think she's lowering her glasses to observe me better..."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 2,
+                    "text": [
+                        "Ah, so it's you (username), You've arrived just on time. _neutral",
+                        "We're here to congratulate you for completing your training. Here."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 3,
+                    "text": [
+                        "The woman steps forward to hand me a bounded scroll. +Scroll",
+                        "I'll have to read it later."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 4,
+                    "text": [
+                        "As of tomorrow, you start your official work with us here at Yuumei Post. So get a good night's rest, and be prepared to come early.",
+                        "I expect to see good things from you. I hope you'll show the potential you've demonstrated so far to us from here on out. _closedeyes",
+                        "That's all from me. The rest of you shall resume with your duties. Thankfully, you don't have much to do. _neutral",
+                        "I'm sure you're pleased about that, aren't you, Lukkas. _closedeyes"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 5,
+                    "text": [
+                        "Kathryn raises an unimpressed brow at the green-haired postman. "
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 6,
+                    "text": [
+                        "Whaaat? Pleased? Noooo. Why would you think that, boss? _grin",
+                        "I, uh... love  work... _nervous"
+                    ],
+                    "pos": "left"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 7,
+                    "text": [
+                        "Glad to hear it, then! Because you've got papers to fill that you haven't done. _neutral"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 11,
+            "characters": [
+				{
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "She looks directly at me, again. Something about her strict-looking eyes makes me feel tense."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 2,
+                    "text": [
+                        "...You're not going to be like Lukkas, are you?"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+                {
+                    "id": 103,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 3,
+                    "transition": 12,
+                    "text": [
+                        "N-Not at all, ma'am! I'll do my work on time!"
+                    ]
+                },
+                {
+                    "id": 104,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 3,
+                    "transition": 13,
+                    "text": [
+                        "There's no time for slacking around, so of course not."
+                    ]
+                },
+                {
+                    "id": 105,
+                    "tag": "UI",
+                    "name": "Button",
+                    "index": 3,
+                    "transition": 14,
+                    "text": [
+                        "Well... It doesn't hurt to be does it? He seems like a fun guy."
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 12,
+			"transition": 15,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "Kathryn gives an acknowledging nod."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 2,
+                    "text": [
+                        "Very well. I hope you'll keep that up. _happy"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 13,
+			"transition": 15,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "Kathryn seems surprised. Perhaps I gave off a different impression to what she thought?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 2,
+                    "text": [
+                        "That's a competent attitude, something very scarce to see these days. _happy",
+						"You'll be a fine asset to our delivery team if you really show such commitment."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 14,
+			"transition": 15,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "Kathryn gives a blank look before shaking her head with a sigh."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 5,
+                    "tag": "Character",
+                    "name": "Kathryn",
+                    "index": 2,
+                    "text": [
+                        "No... I suppose it doesn't. _closedeyes",
+						"But I'd expect that you wouldn't run late on purpose."
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 15,
+			"transition": 16,
+            "characters": [
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 1,
+                    "text": [
+                        "You're lucky to have a day off, (username). You've earned it. _neutral"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 2,
+                    "text": [
+                        "Lukkas pauses for a moment as if a thought had just crossed his mind."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 3,
+                    "text": [
+                        "Oh, yeah! I was going to give you somethin', I almost forgot."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 4,
+                    "text": [
+                        "He takes out a small potted plant and hands it over to me. +Plant"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 1,
+                    "tag": "Player",
+                    "name": "Player",
+                    "index": 5,
+                    "text": [
+                         "A plant?"
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 3,
+                    "tag": "Character",
+                    "name": "Lukkas",
+                    "index": 6,
+                    "text": [
+                        "Yeah. Figured it might be nice to have around at work or back where you're staying.",
+						"Just don't forget to keep it happy!"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        },
+        {
+            "index": 16,
+			"transition": 17,
+            "characters": [
+                {
+                    "id": 2,
+                    "tag": "Character",
+                    "name": "Narrator",
+                    "index": 1,
+                    "text": [
+                        "Lukkas gives a wave before carrying the stacked documents over to his workspace.",
+                        "Evaan merely returns a glance in your direction, uttering something as he walks away."
+                    ],
+                    "pos": "middle"
+                },
+                {
+                    "id": 4,
+                    "tag": "Character",
+                    "name": "Evaan",
+                    "index": 2,
+                    "text": [
+                        "...",
+                        "See you around. |"
+                    ],
+                    "pos": "middle"
+                }
+            ],
+			"ui": [
+            ]
+        }
+    ]
+}
